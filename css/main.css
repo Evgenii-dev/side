@@ -28,3 +28,9 @@ body {
     font-size: 40px;
     color: red;
 }
+
+.about-wrap__link {
+    background-color: deeppink;
+    color: #fff;
+    font-size: 12px;
+}
